@@ -49,4 +49,4 @@ Step 4:
   Return the result string ("MD") and the algorithm stops.
     
 Run time: O(n) as run time is linear to an input value.
-Space complexity: O(n) as the amount of space will increase depending on input value.
+Space complexity: O(n) as the amount of space will increase if input value is larger.
