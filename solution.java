@@ -45,7 +45,8 @@ Step 3:
   Divide by 500. Quotient is 1. Remainer is 0. Append 'D' to result string.
    
 Step 4:
-  Run until all integer values representing the symbol of roman numerals are compared. And the algorithm stops.
+  Run until all integer values representing the symbol of roman numerals are compared. 
+  Return the result string ("MD") and the algorithm stops.
     
 Run time: O(n) as run time is linear to an input value.
 Space complexity: O(n) as the amount of space will increase depending on input value.
